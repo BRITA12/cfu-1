@@ -1,8 +1,9 @@
-#Brithany Sanchez 
-#09/10/2024
+#9/10/24
+#1period
+#Brithanysanchez
 #cfu#1
-first = input("What's your first name")
-last = input("What's your last name")
-age = input("How old are you")
-food = input("What did you eat today")
-print("Hello " + first + " " +last +" you are " +age + " What did you eat today " + food + " ")
+user_name = input("What's your first name?")
+user1_name = input("What's your last name?")
+print("Brithany Sanchez")
+print("9/10/2024")
+print("Period 1-2")               
